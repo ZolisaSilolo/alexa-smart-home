@@ -1,5 +1,3 @@
-markdown
-Copy
 # 🏠 Alexa-Powered Smart Home Orchestrator 🎤  
 *Enterprise-Grade IoT Control System with AWS Integration*
 
@@ -105,4 +103,3 @@ OWASP IoT Security Standards
 Matter Protocol Compatibility (Q4 2024)
 
 ✨ Pro Tip: Use our scene_composer.py utility to create complex automation rules combining multiple devices!
-
