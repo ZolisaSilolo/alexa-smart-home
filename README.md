@@ -55,7 +55,7 @@ Configuration Wizard
 bash
 Copy
 # 1. Clone with IoT submodule
-git clone --recurse-submodules https://github.com/yourrepo/alexa-smart-home.git
+git clone --recurse-submodules https://github.com/ZolisaSilolo/alexa-smart-home.git
 
 # 2. Initialize AWS Profile
 aws configure --profile smart-home
