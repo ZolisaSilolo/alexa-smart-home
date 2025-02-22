@@ -38,7 +38,7 @@ It’s not just smart home control; it’s ubuntu for your appliances, giving ev
 
 
 2. Alexa Skill Processing Flow
-![alt text](<src/mermaid_charts/Alexa Skill Processing Flow.jpeg>)
+![alt text](<alexa-smart-home/alexa-smart-home/src/mermaid_charts/Alexa Skill Processing Flow.jpeg>)
 
 
 🛠️ Developer Setup Guide
