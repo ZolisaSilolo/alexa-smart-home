@@ -74,7 +74,7 @@ Alexa Skill	OAuth2.0	HTTPS
 IoT Devices	X.509 Cert	MQTT
 AWS Lambda	IAM Roles	SigV4
 Encryption Standards
-![alt text](<src/mermaid_charts/Encryption Standards.jpeg>)
+![alt text](<alexa-smart-home/alexa-smart-home/src/mermaid_charts/Encryption Standards.jpeg>)
 
 
 📈 Performance Metrics
