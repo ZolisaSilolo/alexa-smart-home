@@ -15,7 +15,6 @@ It’s not just smart home control; it’s ubuntu for your appliances, giving ev
 [![Python 3.10](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Alexa Certified](https://img.shields.io/badge/Certified-Alexa_Skills_Kit-yellowgreen)](https://developer.amazon.com/alexa-skills-kit)
 
-![System Architecture](https://via.placeholder.com/1200x400.png?text=Alexa+Smart+Home+System+Architecture+Diagram)
 
 ## 🚀 Key Features
 - **Voice-Activated Device Control**  
@@ -85,7 +84,7 @@ Multi-Device Scene	1.2s	99.95%
 Energy Report Gen	2.5s	100%
 🌐 Real-World Applications
 Smart Office Use Case:
-![alt text](<src/mermaid_charts/Smart Office Use Case.jpeg>)
+![alt text](<alexa-smart-home/alexa-smart-home/src/mermaid_charts/Smart Office Use Case.jpeg>)
 
 
 🧪 Testing Framework
