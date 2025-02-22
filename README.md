@@ -34,7 +34,7 @@ It’s not just smart home control; it’s ubuntu for your appliances, giving ev
 
 📚 Core Components Deep Dive
 1. AWS IoT Integration Layer
-![alt text](src/mermaid_charts/MERMAID_FLOWCHART_2.jpeg)
+![alt text](<alexa-smart-home/alexa-smart-home/src/mermaid_charts/AWS IoT Integration Layer.jpeg>)
 
 
 2. Alexa Skill Processing Flow
