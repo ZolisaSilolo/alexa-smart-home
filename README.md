@@ -30,7 +30,7 @@ It’s not just smart home control; it’s ubuntu for your appliances, giving ev
   Usage reporting and optimization suggestions
 
 ## 🧩 System Architecture
-![alt text](src/mermaid_charts/MERMAID_FLOWCHART.jpeg)
+![alt text](<alexa-smart-home/alexa-smart-home/src/mermaid_charts/system_architecture.jpeg>)
 
 
 📚 Core Components Deep Dive
