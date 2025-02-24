@@ -5,7 +5,7 @@ import json
 class DeviceController:
     def __init__(self, iot_client=None):
         if iot_client is None:
-            self.iot_client = boto3.client('iot-data', region_name='us-east-1')  # Replace 'your-region' with your AWS region
+            self.iot_client = boto3.client('iot-data', region_name='us-east-1')  # Replace 'region' with your AWS region
         else:
             self.iot_client = iot_client
 
